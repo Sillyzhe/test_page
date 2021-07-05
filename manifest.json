@@ -1,0 +1,14 @@
+{
+  "name": "test_pwa",
+  "short_name": "test_pwa",
+  "display": "standalone",
+  "start_url": "/",
+  "theme_color": "#faad14",
+  "background_color": "#ffffff",
+  "icons": [{
+      "src": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fku.90sjimg.com%2Felement_pic%2F17%2F06%2F15%2Fb19a0a343b7eb9add4582f1755a6cc08.jpg&refer=http%3A%2F%2Fku.90sjimg.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1628056108&t=cd9d451a8033b29070734960a8455fee",
+      "sizes": "160x160",
+      "type": "image/png"
+    }
+  ]
+}
