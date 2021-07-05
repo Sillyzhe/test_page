@@ -4,6 +4,7 @@
   "display": "standalone",
   "start_url": "/",
   "theme_color": "#faad14",
+  "capture_links": "new-client",
   "background_color": "#ffffff",
   "icons": [{
       "src": "./icon.jpeg",
