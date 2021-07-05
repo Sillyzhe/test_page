@@ -8,7 +8,7 @@
   "background_color": "#ffffff",
   "icons": [{
       "src": "./icon.jpeg",
-      "sizes": "256x256",
+      "sizes": "160x160",
       "type": "image/png"
     }
   ]
